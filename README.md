@@ -8,7 +8,7 @@ stay relevant for about 5 years and the vision to stay relevant for about 10 yea
 The strategy should focus on knowledge transfer. Producing world-class material that helps people improve 
 their lives is a good way to build an effective community.
 
-In terms of implementation, I propose the following:
+In terms of implementation, it is proposed to:
 
 Create a new organization called the Portugal Data Science Academy (PDSA) that adopts the Vision laid out in this document.
 Keep the Lisbon Data Science Academy (and by extension the Starters Academy and prep course) with the same mission but 
@@ -48,7 +48,9 @@ computerized systems in order to collect votes from their respective districts. 
 which individual polling places can be compromised (read Bush V. Gore) while at the same time making it nearly 
 impossible to compromise the entire system. Is messy, takes a long time to count votes, and every once in a while 
 the system fails. However, because the individual polling places are siloed, there are two main benefits: 
-1) the damage can usually be contained and 2) the system is robust to outright corruption by a single entity.
+
+1. The damage can usually be contained.
+2. The system is robust to outright corruption by a single entity.
 
 The vision is meant to be a big but achievable goal. It is not as big as it could be (e.g. to teach the world Data Science) 
 in order to facilitate focus. It is big enough to give us something meaningful to work on for many years to come.
